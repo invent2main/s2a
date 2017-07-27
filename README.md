@@ -1,7 +1,5 @@
-# s2a
-RepRap projects
-
 Single Arm Articulated (s2a) SCARA-family RepRap projects:
+
 -ArmOni Σ(Θ+Φ)
 -RollRap (Z infinite)
 
