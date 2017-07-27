@@ -1,4 +1,4 @@
-Single Arm Articulated (s2a) SCARA-family RepRap projects:
+Single Arm Articulated (s2a) 3D printer /SCARA-family RepRap projects:
 
 -ArmOni Σ(Θ+Φ)
 
